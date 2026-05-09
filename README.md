@@ -12,6 +12,7 @@ I'm looking for developers to help me with my journey and expand my horizons in 
 
 Some facts about me:
   • Currently learning on coding and developing games and websites *more repos coming soon*
+  <br>
   • I use tools like Figma and Framer.
   <!--•
   • Tech Stack: Framer Motion and React // need to study and learn this 
